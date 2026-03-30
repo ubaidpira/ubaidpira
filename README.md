@@ -8,7 +8,6 @@ Many of my core robotics projects are hosted on **GitLab (course + research repo
 ## What I’m working on
 - Robotics perception, calibration, and autonomy pipelines
 - Computer vision + ML systems deployed on real machines
-- Clean, documented demos recruiters can actually run
 
 ## Selected projects (start here)
 - **Autonomous Exploration & Escape (ROS2, C++, LiDAR)**  
@@ -23,8 +22,6 @@ Many of my core robotics projects are hosted on **GitLab (course + research repo
   3D dynamic modeling and gain-scheduled LQR controller for ball-balancing robot (MATLAB).  
   _Design + control work documented; hardware-focused project._
 
-- **Smart Inventory Manager**  
-  Lightweight inventory tracking tool with real setup instructions and demo (see repo).
 
 ## Technical skills
 **Robotics:** ROS2, LiDAR, SLAM, Odometry, EKF, Particle Filters, Occupancy Mapping  
