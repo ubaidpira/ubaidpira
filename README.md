@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi there 
 
-Robotics Engineering @ University of Michigan (BSE ’26), minor in AI.  
-I build **real-world robotics and computer vision systems** in Python and C++, with experience deploying ML models to hardware and closing the loop from perception → planning → actuation.
-
+Robotics Engineering @ University of Michigan (BSE ’26).  
+I build **real-world robotics and computer vision systems** in Python and C++
 Many of my core robotics projects are hosted on **GitLab (course + research repos)**. This GitHub highlights selected work and supporting projects.
 
 ## What I’m working on
